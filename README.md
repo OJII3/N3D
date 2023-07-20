@@ -1,4 +1,4 @@
-# 3D Model
+# 3D Model (Name not decided)
 
 ## Environment
 
@@ -7,5 +7,6 @@
 
 ## Appearance
 
-![3D Model](./media/arch-chan-face-wip.png)
-![3D Model](./media/arch-chan-front-wip.png)
+![3D Model](./media/n_chan_front_unity.png)
+![3D Model](./media/n_chan_front.png)
+![3D Model](./media/n_chan_expand.png)
